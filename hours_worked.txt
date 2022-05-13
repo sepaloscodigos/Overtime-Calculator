@@ -1,0 +1,15 @@
+employee- jim
+hours worked: 42
+hourly wage: 14
+
+employee- marge
+hours worked: 15
+hourly wage: 15
+
+employee- gordon
+hours worked: 60
+hourly wage: 13
+
+employee- tia
+hours worked: 41
+hourly wage: 17
